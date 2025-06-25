@@ -1,5 +1,3 @@
 streamlit
 opencv-python
 mediapipe-nightly
-pillow
-openai
